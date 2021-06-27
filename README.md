@@ -9,7 +9,7 @@
 
 ### My Tools
 
-- <img src="https://bit.ly/3hbB7il"></img>
+- <img src="https://camo.githubusercontent.com/18e24036c951199244f4c72bc3492b890bd88e44ed3e73132a0624adede5055c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653436f64652d4944452d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d626c756526636f6c6f723d696e666f726d6174696f6e616c2663616368655365636f6e64733d33363030"></img>
 
 ### Languages I Work With
 
@@ -18,5 +18,5 @@
 
 ### Github Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobkre&show_icons=true&theme=dark&bg_color=45,000428,004e92) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobkre&theme=dark&bg_color=45,000428,004e92)](https://github.com/jacobkre/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobkre&show_icons=true&theme=dark&bg_color=45,ff5f6d,ffc371) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobkre&theme=dark&bg_color=45,ff5f6d,ffc371)](https://github.com/jacobkre/github-readme-stats)
 
