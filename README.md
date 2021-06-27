@@ -13,7 +13,7 @@
 
 ### Languages I Work With
 
-- <img src="https://bit.ly/369pJid"></img> <img src="https://bit.ly/35WZyeu"></img> <img src="https://bit.ly/35Zy8nW"></img>
+- <img src="https://bit.ly/369pJid"></img> <img src="https://tinyurl.com/tku2jmxj"></img> <img src="https://bit.ly/35Zy8nW"></img>
 - <img src="https://bit.ly/2UCwN45"></img>
 
 ### Github Stats
