@@ -1,11 +1,11 @@
 # Heya! I'm Jacob <img src="https://raw.githubusercontent.com/jacobkre/jacobkre/master/wave.gif" width="30px">
 
 
-- 👀 I’m interested in: Stuff
-- 🌱 I’m currently learning: HTML, CSS & Python
+- 👀 I’m interested in: Programming, Robotics, & Aviation
+- 🌱 I’m currently learning: JS, Python & Vue
 - 💞️ I’m looking to collaborate on: Not much at the moment
-- 📫 How to reach me: Discord
-- 🌐 Website: https://jacobdesigns.gq
+- 📫 How to reach me: [Discord](https://discord.com/users/718917343610142742)
+- 🌐 Website: https://jacobdesigns.space
 
 ### My Tools
 
