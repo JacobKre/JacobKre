@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in: Programming, Robotics, & Aviation
-- 🌱 I’m currently learning: JS, Python & Vue
+- 🌱 I’m currently learning: JS, TS & Python
 - 💞️ I’m looking to collaborate on: Not much at the moment
 - 📫 How to reach me: [Discord](https://discord.com/users/718917343610142742)
 - 🌐 Website: https://jacobdesigns.space
