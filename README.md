@@ -1,4 +1,4 @@
-# Heya! I'm Jacob <img src="https://raw.githubusercontent.com/jacobkre/jacobkre/master/wave.gif" width="30px">
+# Hi! I'm Jacob <img src="https://raw.githubusercontent.com/jacobkre/jacobkre/master/wave.gif" width="30px">
 
 
 - 👀 I’m interested in: Programming, Robotics, & Aviation
