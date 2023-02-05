@@ -1,11 +1,8 @@
-# Hi! I'm Jacob <img src="https://raw.githubusercontent.com/jacobkre/jacobkre/master/wave.gif" height="30px">
+# Hi! I'm Orbital <img src="https://raw.githubusercontent.com/jacobkre/jacobkre/master/wave.gif" height="30px">
 
 
 - 👀 I’m interested in: Programming, Robotics, & Aviation
-- 🌱 I’m currently learning: JS, TS & Python
-- 💞️ I’m looking to collaborate on: Not much at the moment
 - 📫 How to reach me: [Discord](https://discord.com/users/718917343610142742)
-- 🌐 Website: https://jacobdesigns.space
 
 ### My Tools
 
