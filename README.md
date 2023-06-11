@@ -15,6 +15,9 @@
 - <img src="https://camo.githubusercontent.com/1da261b6c629f41bdafb9f2600481e718fccad14d1ed3261b2f9a76b71feca34/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176617363726970742d4c616e67756167652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d79656c6c6f7726636f6c6f723d696e666f726d6174696f6e616c2663616368655365636f6e64733d33363030"></img>
 
 ### Github Stats
-
-[![Orbitally's GitHub stats](https://github-readme-stats.vercel.app/api?username=orbitally&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=orbitally&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Orbital&theme=transparent&layout=compact" />
+</a>
