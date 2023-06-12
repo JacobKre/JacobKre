@@ -32,5 +32,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Orbital&theme=transparent&layout=compact" />
 </a>
 
+(Timing started on June 11th 2023)
+
 ### How To Reach Me
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/718917343610142742)
