@@ -26,10 +26,10 @@
 
 ### Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=orbitally&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=orbitally&theme=github_dark_dimmed" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Orbital&theme=transparent&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Orbital&theme=github_dark_dimmed&layout=compact" />
 </a>
 
 (Timing started on June 11th 2023)
